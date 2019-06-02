@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Crypt.dir/common.cpp.o CMakeFiles/Crypt.dir/test3.cpp.o  -o Crypt -lNTL -lgmp -lNTL -lgmp 

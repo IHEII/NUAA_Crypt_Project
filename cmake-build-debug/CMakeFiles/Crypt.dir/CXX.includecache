@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liwenbo/Crypt/common.h
+string
+-
+
+/Users/liwenbo/Crypt/test3.cpp
+iostream
+-
+cstdio
+-
+fstream
+-
+string
+-
+cstring
+-
+common.h
+/Users/liwenbo/Crypt/common.h
+
